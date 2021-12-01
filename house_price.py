@@ -125,7 +125,7 @@ lr_predict_reg = lr_price_reg.predict(X_test)
 
 
 
-#%%----------------------------------Decesion Tree-----------------------------
+#%%----------------------------------Decision Tree-----------------------------
 from sklearn.tree import DecisionTreeRegressor
 
 dtr_clf = DecisionTreeRegressor()
